@@ -22,7 +22,7 @@ This options calculator utilizing the Black-Scholes Model, the first commonly us
 * Vega: change in volatility
 * Rho: risk-free interest
 
-#### Necessary Assumptions
+#### Necessary Assumptions:
 * The underlying's risk-free rate and volatility are known and constant.
 * It is only applicable to European options that can be exercised upon expiration.
 * The underlying returns are normally distributed.
