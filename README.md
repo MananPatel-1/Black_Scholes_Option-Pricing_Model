@@ -29,5 +29,11 @@ This options calculator utilizing the Black-Scholes Model, the first commonly us
 * There are no transaction or commission fees when purchasing the option.
 * Stock exchanges are efficient. Market movement cannot be foreseen, and there is continual trade.
 
+# What I've Learned
+* Financial Derivative(Options, Futures, Foward, etc.)
+* Deriving Black-Scholes formula
+* Importance of Implied Volatility
+* Option Greeks
+
 
 
